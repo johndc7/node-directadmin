@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptisp/node-directadmin.git"
+    "url": "git+https://github.com/johndc7/node-directadmin.git"
   },
   "author": "Nuno Cardoso <nuno.cardoso@ptisp.pt>",
   "keywords": [
@@ -17,9 +17,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ptisp/node-directadmin/issues"
+    "url": "https://github.com/johndc7/node-directadmin/issues"
   },
-  "homepage": "https://github.com/ptisp/node-directadmin#readme",
+  "homepage": "https://github.com/johndc7/node-directadmin",
   "dependencies": {
     "axios": "^0.21.1"
   },
