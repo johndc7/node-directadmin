@@ -4,7 +4,7 @@ Node.js module for [DirectAdmin](https://www.directadmin.com/)
 
 ## Installation
 
-`npm install directadmin`
+`npm install node-directadmin`
 
 ## Tests
 
