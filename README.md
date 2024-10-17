@@ -6,10 +6,6 @@ Node.js module for [DirectAdmin](https://www.directadmin.com/)
 
 `npm install node-directadmin`
 
-## Tests
-
- * Tests are implemented using `mocha` and `chai`. Run them with `npm test`.
-
 ## Options
 - `forceJsonRequests` - This forces `json=yes` on all API calls. This will change the format returned by some functions. This is recommended on **new projects** (or existing ones if you feel like possibly introducing some bugs). This only defaults to `false` for backwards compatibility.
 
